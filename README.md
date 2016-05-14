@@ -8,7 +8,7 @@ Simple test application to test Google Cloud Messages.
 
 1. Put the [google-services.json](https://developers.google.com/mobile/add?platform=android&cntapi=gcm) into app/ 
 
-2. Trigger a push notification via a http POST using [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) or [Hurl.it](http://www.Hurl.it)
+2. Trigger a [push notification](https://developers.google.com/cloud-messaging/) via a http POST using [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) or [Hurl.it](http://www.Hurl.it)
     
         POST https://android.googleapis.com/gcm/send
         
