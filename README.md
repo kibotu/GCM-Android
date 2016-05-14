@@ -1,4 +1,4 @@
-### GCM Test [![Build Status](https://travis-ci.org/kibotu/GCM-Android.svg?branch=master)](https://travis-ci.org/kibotu/GCM-Android)  [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Licence](https://img.shields.io/badge/licence-Apache-blue.svg)](https://raw.githubusercontent.com/kibotu/GCM-Android/LICENSE)
+### GCM Test [![Build Status](https://travis-ci.org/kibotu/GCM-Android.svg?branch=master)](https://travis-ci.org/kibotu/GCM-Android)  [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15) [![Licence](https://img.shields.io/badge/licence-Apache-blue.svg)](https://raw.githubusercontent.com/kibotu/GCM-Android/master/LICENSE)
 -----------
 
 
